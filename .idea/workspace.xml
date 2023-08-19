@@ -4,29 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69d99a16-227d-4299-80ca-db0e1bf88c5a" name="Changes" comment="프로그래머스 레벨2 5일차 풀이 업로드">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/뒤에있는큰수/Repeat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/숫자변환하기/DPRepeat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/숫자변환하기/Repeat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/시소짝궁/Repeat1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/괄호회전하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/메뉴리뉴얼/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/순위검색/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/순위검색/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/이진변환반복하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/쿼드압축후개수세기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/쿼드압축후개수세기/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/괄호변환/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/멀쩡한사각형/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/문자열압축/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/문자열압축/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/방문길이/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/삼각달팽이/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/수식최대화/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/튜플/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day7/튜플/Solution2.java" afterDir="false" />
+    <list default="true" id="69d99a16-227d-4299-80ca-db0e1bf88c5a" name="Changes" comment="프로그래머스 레벨2 8일차 풀이 업로드">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/이모티콘할인행사/Repeat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/이모티콘할인행사/Repeat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/구명보트/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/구명보트/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/스킬트리/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/오픈채팅방/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/큰수만들기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/큰수만들기/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/큰수만들기/SolutionStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/큰수만들기/SolutionStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/타켓넘버/DFSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/타켓넘버/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day8/후보키/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/행렬테두리구하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day6/행렬테두리구하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/택배배달과수거하기/Repeat1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/lever2/day2/택배배달과수거하기/Repeat1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +69,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230817_0001",
+    "com.google.cloudcode.ide_session_index": "20230818_0001",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,13 +89,13 @@
       <recent name="css.inflearn.bigo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.programmers.lever2.day7.방문길이.Solution">
+  <component name="RunManager" selected="Application.SolutionStringBuilder">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day7.멀쩡한사각형.Solution" />
+      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day8.후보키.Solution" />
       <module name="codingTestForArchitecture.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.lever2.day7.멀쩡한사각형.*" />
+          <option name="PATTERN" value="programmers.lever2.day8.후보키.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day7.튜플.Solution2" />
+    <configuration name="SolutionStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day8.큰수만들기.SolutionStack" />
       <module name="codingTestForArchitecture.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.lever2.day7.튜플.*" />
+          <option name="PATTERN" value="programmers.lever2.day8.큰수만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,25 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="programmers.lever2.day6.괄호회전하기.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day6.괄호회전하기.Solution" />
+    <configuration name="SolutionStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day8.큰수만들기.SolutionStringBuilder" />
       <module name="codingTestForArchitecture.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.lever2.day6.괄호회전하기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="programmers.lever2.day7.방문길이.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day7.방문길이.Solution" />
-      <module name="codingTestForArchitecture.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmers.lever2.day7.방문길이.*" />
+          <option name="PATTERN" value="programmers.lever2.day8.큰수만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +142,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="programmers.lever2.day7.문자열압축.Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day7.문자열압축.Solution2" />
+    <configuration name="programmers.lever2.day8.큰수만들기.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day8.큰수만들기.Solution" />
       <module name="codingTestForArchitecture.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmers.lever2.day7.문자열압축.*" />
+          <option name="PATTERN" value="programmers.lever2.day8.큰수만들기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="programmers.lever2.day8.구명보트.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.lever2.day8.구명보트.Solution" />
+      <module name="codingTestForArchitecture.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.lever2.day8.구명보트.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.programmers.lever2.day7.방문길이.Solution" />
-        <item itemvalue="Application.programmers.lever2.day7.문자열압축.Solution2" />
-        <item itemvalue="Application.programmers.lever2.day7.문자열압축.Solution" />
+        <item itemvalue="Application.SolutionStringBuilder" />
+        <item itemvalue="Application.SolutionStack" />
+        <item itemvalue="Application.programmers.lever2.day8.큰수만들기.Solution" />
+        <item itemvalue="Application.programmers.lever2.day8.구명보트.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +192,8 @@
       <workItem from="1692058598172" duration="14804000" />
       <workItem from="1692144039015" duration="12465000" />
       <workItem from="1692177341376" duration="15475000" />
-      <workItem from="1692244614504" duration="10349000" />
+      <workItem from="1692244614504" duration="13190000" />
+      <workItem from="1692322189574" duration="14281000" />
     </task>
     <task id="LOCAL-00001" summary="프로그래머스 레벨2 2일차 절반까지 내용 업로드">
       <created>1691818347982</created>
@@ -229,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692145790486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="프로그래머스 레벨2 7일차 풀이 업로드">
+      <created>1692269031548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692269031548</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +252,9 @@
     <MESSAGE value="프로그래머스 레벨2 3일차 풀이 업로드" />
     <MESSAGE value="프로그래머스 레벨2 4일차 풀이 업로드" />
     <MESSAGE value="프로그래머스 레벨2 5일차 풀이 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 레벨2 5일차 풀이 업로드" />
+    <MESSAGE value="프로그래머스 레벨2 7일차 풀이 업로드" />
+    <MESSAGE value="프로그래머스 레벨2 8일차 풀이 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 레벨2 8일차 풀이 업로드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -393,8 +396,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day7/방문길이/Solution.java</url>
-          <line>43</line>
+          <line>42</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day2/택배배달과수거하기/Repeat1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/스킬트리/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/스킬트리/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/후보키/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/구명보트/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/큰수만들기/SolutionStack.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/큰수만들기/SolutionStringBuilder.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day4/피로도/Solution.java</url>
@@ -422,6 +460,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/후보키/Solution.java</url>
+          <line>32</line>
+          <properties class="programmers.lever2.day8.후보키.Solution" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/후보키/Solution.java</url>
+          <line>60</line>
+          <properties class="programmers.lever2.day8.후보키.Solution" method="isMinimal">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/lever2/day8/후보키/Solution.java</url>
+          <line>70</line>
+          <properties class="programmers.lever2.day8.후보키.Solution" method="isUnique">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
